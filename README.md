@@ -1,4 +1,4 @@
-# JavascriptGraphTraversal
+# JavaScriptGraphTraversal
 
 This JavaScript file uses depth-first and breadth-first searching algorithms to find routes from one airport in a given list to another. It prints this route to console and logs the Big O complexity associated with finding the result using that searching algorithm.
 
